@@ -248,7 +248,7 @@ set mouse=a
 set ttymouse=xterm2
 
 "hide buffers when not displayed
-set hidden
+"set hidden
 
 "Command-T configuration
 let g:CommandTMaxHeight=10
